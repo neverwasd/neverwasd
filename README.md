@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @neverwasd
+- 👀 I’m interested in software engineering, generative AI, and cybersecurity
+- 🌱 I’m currently learning [diffusers](https://github.com/huggingface/diffusers), [transformers](https://github.com/huggingface/transformers), LLM prompt injection, reverse engineering, binary and malware analysis, ...
+- 📫 Socials/contact: [Linktree](https://linktr.ee/neverwasd)
